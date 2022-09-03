@@ -1,3 +1,4 @@
+# Runtime: 60ms (77.91%) Memory Usage: 14MB (30.14%) 
 class Solution:
     def romanToInt(self, s: str) -> int:
         romanNumerals = {
